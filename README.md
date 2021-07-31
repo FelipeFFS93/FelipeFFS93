@@ -3,8 +3,8 @@
 
 ### Em Construção ⛑️
 
-- • 🎓 Desenvolvedor Fullstack Java Jr- Em formação 
-- • 🎓 Engenharia da Computação - Em formação 
+-  🎓 Desenvolvedor Fullstack Java Jr- Em formação 
+-  🎓 Engenharia da Computação - Em formação 
 
 • 📍 São Paulo- SP
 
