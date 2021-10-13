@@ -3,7 +3,6 @@
 
 ### Em Construção ⛑️
 
--  🎓 Desenvolvedor Fullstack Java Jr- Em formação Generation Brasil
 -  🎓 Engenharia da Computação - Em formação Univesp
 
 • 📍 São Paulo- SP
